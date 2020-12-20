@@ -1,4 +1,4 @@
-package _0714.by_Greedy;
+package medium._0714.by_Greedy;
 
 class Solution {
     public int maxProfit(int[] prices, int fee) {
